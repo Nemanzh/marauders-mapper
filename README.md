@@ -17,15 +17,15 @@
 
 ### Option 1: Install from Chrome Web Store
 
-_Coming soon..._
+_Coming soon..._(meaning never 😁)
 
 ### Option 2: Install Manually (Developer Mode)
 
 1. **Download the Extension**
 
    ```bash
-   git clone https://github.com/Nemanzh/google-maps-scraper.git
-   cd google-maps-scraper
+   git clone https://github.com/Nemanzh/marauders-mapper.git
+   cd marauders-mapper
    ```
 
 2. **Open Chrome Extensions Page**
@@ -153,13 +153,6 @@ This extension is for educational and research purposes. Please respect Google's
 - Some business details might be missing if not displayed on the search results page
 - Large datasets may take a moment to process
 
-## 📞 Support
-
-If you encounter any issues or have suggestions:
-
-1. **GitHub Issues**: [Report a bug](https://github.com/Nemanzh/google-maps-scraper/issues)
-2. **Email**: Create an issue on GitHub for the fastest response
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -177,7 +170,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⚡ Mischief Managed ⚡**
 
 _Built with ❤️ and way too much coffee by [@Nemanzh](https://github.com/Nemanzh)_
-
-_"It is our choices that show what we truly are, far more than our abilities to scrape data!"_
 
 </div>
